@@ -1,4 +1,4 @@
-# Repository challenge Git/GitHub from DIO
+# Repository-challenge-Git/GitHub-from-DIO
 Repository for project challenge on Git/GitHub
 First project of the Java developer course.
 
